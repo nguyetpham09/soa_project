@@ -1,0 +1,12 @@
+D:\Ki 8\KTHDV+QLDA+DA\MVC\Supermarket\server\SuperMarket.Core\bin\Debug\netcoreapp3.1\SuperMarket.Core.deps.json
+D:\Ki 8\KTHDV+QLDA+DA\MVC\Supermarket\server\SuperMarket.Core\bin\Debug\netcoreapp3.1\SuperMarket.Core.dll
+D:\Ki 8\KTHDV+QLDA+DA\MVC\Supermarket\server\SuperMarket.Core\bin\Debug\netcoreapp3.1\SuperMarket.Core.pdb
+D:\Ki 8\KTHDV+QLDA+DA\MVC\Supermarket\server\SuperMarket.Core\obj\Debug\netcoreapp3.1\SuperMarket.Core.csprojAssemblyReference.cache
+D:\Ki 8\KTHDV+QLDA+DA\MVC\Supermarket\server\SuperMarket.Core\obj\Debug\netcoreapp3.1\SuperMarket.Core.AssemblyInfoInputs.cache
+D:\Ki 8\KTHDV+QLDA+DA\MVC\Supermarket\server\SuperMarket.Core\obj\Debug\netcoreapp3.1\SuperMarket.Core.AssemblyInfo.cs
+D:\Ki 8\KTHDV+QLDA+DA\MVC\Supermarket\server\SuperMarket.Core\obj\Debug\netcoreapp3.1\SuperMarket.Core.csproj.CoreCompileInputs.cache
+D:\Ki 8\KTHDV+QLDA+DA\MVC\Supermarket\server\SuperMarket.Core\obj\Debug\netcoreapp3.1\SuperMarket.Core.dll
+D:\Ki 8\KTHDV+QLDA+DA\MVC\Supermarket\server\SuperMarket.Core\obj\Debug\netcoreapp3.1\SuperMarket.Core.pdb
+D:\Ki 8\KTHDV+QLDA+DA\MVC\Supermarket\server\SuperMarket.Core\bin\Debug\netcoreapp3.1\SuperMarket.Core.runtimeconfig.json
+D:\Ki 8\KTHDV+QLDA+DA\MVC\Supermarket\server\SuperMarket.Core\bin\Debug\netcoreapp3.1\SuperMarket.Core.runtimeconfig.dev.json
+D:\Ki 8\KTHDV+QLDA+DA\MVC\Supermarket\server\SuperMarket.Core\obj\Debug\netcoreapp3.1\SuperMarket.Core.genruntimeconfig.cache

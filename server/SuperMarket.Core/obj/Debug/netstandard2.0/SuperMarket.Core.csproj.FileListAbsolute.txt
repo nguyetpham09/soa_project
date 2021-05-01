@@ -1,0 +1,9 @@
+D:\Ki 8\KTHDV+QLDA+DA\MVC\Supermarket\server\SuperMarket.Core\bin\Debug\netstandard2.0\SuperMarket.Core.deps.json
+D:\Ki 8\KTHDV+QLDA+DA\MVC\Supermarket\server\SuperMarket.Core\bin\Debug\netstandard2.0\SuperMarket.Core.dll
+D:\Ki 8\KTHDV+QLDA+DA\MVC\Supermarket\server\SuperMarket.Core\bin\Debug\netstandard2.0\SuperMarket.Core.pdb
+D:\Ki 8\KTHDV+QLDA+DA\MVC\Supermarket\server\SuperMarket.Core\obj\Debug\netstandard2.0\SuperMarket.Core.csprojAssemblyReference.cache
+D:\Ki 8\KTHDV+QLDA+DA\MVC\Supermarket\server\SuperMarket.Core\obj\Debug\netstandard2.0\SuperMarket.Core.AssemblyInfoInputs.cache
+D:\Ki 8\KTHDV+QLDA+DA\MVC\Supermarket\server\SuperMarket.Core\obj\Debug\netstandard2.0\SuperMarket.Core.AssemblyInfo.cs
+D:\Ki 8\KTHDV+QLDA+DA\MVC\Supermarket\server\SuperMarket.Core\obj\Debug\netstandard2.0\SuperMarket.Core.csproj.CoreCompileInputs.cache
+D:\Ki 8\KTHDV+QLDA+DA\MVC\Supermarket\server\SuperMarket.Core\obj\Debug\netstandard2.0\SuperMarket.Core.dll
+D:\Ki 8\KTHDV+QLDA+DA\MVC\Supermarket\server\SuperMarket.Core\obj\Debug\netstandard2.0\SuperMarket.Core.pdb
